@@ -8,7 +8,7 @@ Hey! Currently, I am working on Frontend Web Development, soaking up as much kno
 <!--
 <img align="right" src ="https://thumbs.dreamstime.com/b/vector-female-programmer-software-engineer-coding-desktop-isometric-193608287.jpg" alt="image" width="350" height="250"/>  -->
 
-<img align="right" src ="10_coding_dribble.gif" alt="image" width="430" height="250"/>
+<img align="right" src ="10_coding_dribbble.gif" alt="image" width="430" height="250"/>
 
 ## 🏆 Github Stats
 
