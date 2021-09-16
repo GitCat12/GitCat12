@@ -13,7 +13,7 @@ Hey! Currently, I am working on Frontend Web Development, soaking up as much kno
 ## 🏆 Github Stats
 
 <p align="left">
-<img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumandeep-kaur&theme=synthwave">
-<img align="right" height="300px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumandeep-kaur&theme=synthwave">
+<img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitCat12&theme=synthwave">
+<img align="right" height="300px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=GitCat12&theme=synthwave">
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=GitCat12&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
