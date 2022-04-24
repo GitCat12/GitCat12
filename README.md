@@ -5,7 +5,7 @@ import Contact from 'Dev_';
 
 class Contact extends Contact {
   name    = 'Dev_';
-  fastest_contact   = 'Dev_#0001 (DISCORD)';
+  contact   = 'linkedin.com/in/dev-fourohfour-8a0742238/';
   website = 'https://gitcat12.github.io/Dev101AboutPage/';
 }
 ```
