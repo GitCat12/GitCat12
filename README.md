@@ -5,7 +5,7 @@ import Contact from 'Dev_';
 
 class Contact extends Contact {
   name    = 'Dev_';
-  contact   = 'linkedin.com/in/dev-fourohfour-8a0742238/';
+  contact   = 'https://linkedin.com/in/dev-fourohfour-8a0742238/';
   website = 'https://gitcat12.github.io/Dev101AboutPage/';
 }
 ```
@@ -14,7 +14,7 @@ class Contact extends Contact {
 # about-me.<strong>py<strong>
 ```py
 import about_me from Dev_
-async def about(location, achievements, hobbies, expertise):
+async def about(location, achievements, hobbies,):
 
    file.write(LOCATION, "California, USA")
 
