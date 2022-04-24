@@ -1,19 +1,48 @@
+# <strong align="center"> Hi, \<devs!> </strong>
 
-<h2 align="center"> I'm a passionate Frontend Developer </h2>
+<br>
+<br>
+<br>
+<p style="font-size:35px;line-height:0">🖥️ Devs Computer ⤵</p>
+<p style="font-size:35px;line-height:0.5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 About Me ⤵</p>
+<p style="font-size:35px;line-height:0.1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 contact<strong>.js</strong></p>
+
+
+<br>
 <br>
 
-Hey! Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. I have experience using HTML, CSS, Javascript, Python and I've just started diving into ReactJS.
-<br><br>
+# contact<strong>.js</strong>
+```js
+import Contact from 'Dev_';
 
-<!--
-<img align="right" src ="https://thumbs.dreamstime.com/b/vector-female-programmer-software-engineer-coding-desktop-isometric-193608287.jpg" alt="image" width="350" height="250"/>  -->
+class Contact extends Contact {
+  name    = 'Dev_';
+  fastest_contact   = 'Dev_#0001 (DISCORD)';
+  website = 'https://gitcat12.github.io/Dev101AboutPage/';
+}
+```
 
-<img align="right" src ="10_coding_dribbble.gif" alt="image" width="430" height="250"/>
 
-## 🏆 Github Stats
+# about-me.<strong>py<strong>
+```py
+import about_me from Dev_
+async def about(location, achievements, hobbies, expertise):
 
-<p align="left">
-<img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitCat12&theme=synthwave">
-<img align="right" height="300px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=GitCat12&theme=synthwave">
-</p>
-<img src="https://activity-graph.herokuapp.com/graph?username=GitCat12&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+   file.write(LOCATION, "California, USA")
+
+   json.parse({
+     "ACHIEVEMENT" : "Discord Community Moderator",
+     "ACHIEVEMENT" : "Google Analytics Certification",
+     "ACHIEVEMENT" : "Amazon Sponsered Ads Certification",
+     "ACHIEVEMENT" : "Meta Certified Media Planning Professional",
+     "ACHIEVEMENT" : "LinkedIn - Speaking Confidently and Effectively",
+   })
+
+   new.database(HOBBIES.insert("Programming, Security, Gaming, Photography, Star Wars, Music"))
+
+   
+
+
+ ```
+
+ ```STILL IN PROGRESS!```
