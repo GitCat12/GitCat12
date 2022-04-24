@@ -5,8 +5,9 @@ import Contact from 'Dev_';
 
 class Contact extends Contact {
   name    = 'Dev_';
-  contact   = 'https://linkedin.com/in/dev-fourohfour-8a0742238/';
+  contact   = 'devs_github@protonmail.com';
   website = 'https://gitcat12.github.io/Dev101AboutPage/';
+  profiles = 'Linkedin, Github, Twitter, -- Must be requested via email'
 }
 ```
 
