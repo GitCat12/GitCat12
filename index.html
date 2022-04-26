@@ -1,23 +1,49 @@
 <style>
-/* https://github.com/lonekorean/gist-syntax-themes */
-@import url('https://cdn.rawgit.com/lonekorean/gist-syntax-themes/d49b91b3/stylesheets/idle-fingers.css');
+.gist-data tbody { background-color: Black; }
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-body {
-  font: 16px 'Open Sans', sans-serif;
+/* Line Numbers */
+.gist-data tbody td:nth-of-type(1) {
+  color: #2B91AF !important;
 }
-body .gist .gist-file {
-  border-color: #555 #555 #444
+
+/* Code */
+.gist-data tbody td:nth-of-type(2){
+  color: #FFFFFF !important;
 }
-body .gist .gist-data {
-  border-color: #555
+
+/* Comments */
+.pl-c
+{
+  color: #57A64A !important;
 }
-body .gist .gist-meta {
-  color: #ffffff;
-  background: #373737; 
+
+/* Function */
+.pl-k, tbody tr:first-child .blob-code, tbody tr:last-child .blob-code
+{
+  color: #569CD6 !important;
 }
-body .gist .gist-meta a {
-  color: #ffffff
+
+/* Function Name */
+.pl-en
+{
+  color: #FFFFFF !important;
+}
+
+/* Function Method */
+.pl-c1
+{
+  color: #FFFFFF !important;
+}
+/* "'s around Strings */
+.pl-pds
+{
+  color: #D69D85 !important;
+}
+
+/* Strings */
+.pl-s
+{
+  color: #D69D85 !important;
 }
 </style>
 <body style="background-color:black">
